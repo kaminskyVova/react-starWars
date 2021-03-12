@@ -1,7 +1,7 @@
 {
 	"name": "star-wars",
 	"version": "0.1.0",
-	"homepage": "",
+	"homepage": "https://kaminskyvova.github.io/react-starWars/",
 	"private": true,
 	"dependencies": {
 		"classnames": "^2.2.6",
